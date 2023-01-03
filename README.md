@@ -1,3 +1,8 @@
+<h1>
+Not the official TinyGrad Repo!!
+This is just a fork so I can mess around and try to improve it, use it, or whatever.
+</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/geohot/tinygrad/master/docs/logo.png">
 </p>
